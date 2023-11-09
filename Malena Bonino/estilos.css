@@ -1,0 +1,36 @@
+.texto-centrado{
+    text-align: center;
+}
+body{
+    background-color: cadetblue;
+}
+/* agregar font  */
+
+p{
+    background-color: burlywood;
+}
+.personajes{
+    margin: 100px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 1000px;
+    height: 1000px;
+}
+.libros {
+    margin: 100px;
+    border: 1px solid #ccc;
+    float: right;
+    width: 10px;
+}
+.peliculas {
+    margin: 100px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 10px;
+}
+.merodeadores {
+    margin: 100px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 10px;
+}
